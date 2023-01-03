@@ -6,6 +6,7 @@ This repository contains all the documentation for the Sauce & Spoon project, wh
 
 ## Table of Contents
 
+- [Master Tracker](#master-tracker)
 - [Project Charter](#project-charter)
 - [Stakeholder Analysis](#stakeholder-analysis)
 - [Project Plan](#project-plan)
@@ -16,6 +17,9 @@ This repository contains all the documentation for the Sauce & Spoon project, wh
 - [Impact Report](#impact-report)
 - [Personal Closing Report](#personal-closing-report)
 
+## Master Tracker 
+
+The Master Tracker is a document that holds links and brief descriptions to all relevant documentation for the Sauce & Spoon project. It allows for easy access to all project materials in one place
 
 ## Project Charter
 
