@@ -55,4 +55,4 @@ The impact report is a presentation that shows key stakeholders the value that h
 
 ## Personal Closing Report
 
-The personal closing report is a document that reflects on the individual's experience and accomplishments during the project. It includes a summary of key accomplishments, lessons learned, and next steps, as well as personal goals and an executive summary.```
+The personal closing report is a document that reflects on the individual's experience and accomplishments during the project. It includes a summary of key accomplishments, lessons learned, and next steps, as well as personal goals and an executive summary.
